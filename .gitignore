@@ -1,0 +1,4 @@
+.project
+log/*
+node_modules/*
+tmp/*

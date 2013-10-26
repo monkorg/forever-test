@@ -1,0 +1,13 @@
+{
+  "name"        : "forever-test",
+  "version"     : "0.0.1",
+  "author"      : "monk",
+  "description" : "Forever simple JS app",
+  "scripts"      : {
+    "start"      : "service forever-test start"
+  },
+  "dependencies" : {
+    "async"      :  "*",
+    "redis"      :  "*"
+  }
+}
