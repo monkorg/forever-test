@@ -6,6 +6,10 @@
   "scripts"      : {
     "start"      : "service forever-test start"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monkorg/forever-test.git"
+  },
   "dependencies" : {
     "async"      :  "*",
     "redis"      :  "*"
